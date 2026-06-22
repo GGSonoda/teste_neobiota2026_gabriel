@@ -1,6 +1,7 @@
 
 
 Colonization experiment
+![Photo description](20250926_104916.jpg)
 Image of harbor:
 [port](https://upload.wikimedia.org/wikipedia/commons/a/ac/Port_Olympic_in_Barcelona%2C_Spain_%2851226239136%29.jpg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Port_Olympic_in_Barcelona%2C_Spain_%2851226239136%29.jpg" height="800" width="1200" />
