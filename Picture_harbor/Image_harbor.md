@@ -10,6 +10,8 @@ Experiment deployed:
 ![Experiment:](20250926_104916.jpg)
 Polystiren (EPS) plate:
 ![Expanded Polystiren (EPS) plate](20250926_105512.jpg)
+Zoomed Polystiren EPS plate
+![Zoom Expanded Polystiren (EPS) plate](bottom_right.png)
 Polypropoylen plate:
 ![Polypropoylen plate](20250926_111200.jpg)
 
